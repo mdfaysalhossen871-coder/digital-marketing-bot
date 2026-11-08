@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Digital Marketing Bot — Draft Assistant",
+  "version": "0.1.0",
+  "description": "Prepare and copy reviewed marketing drafts. Does not auto-submit Facebook posts.",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": []
+}
